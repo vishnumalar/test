@@ -14,5 +14,12 @@ hi
 ==============
 3rd line
 
+<<<<<<< HEAD
 ======
 4th line
+=======
+
+malar
+>>>>>>> c3b55ce92f088d8203cdbc0319db5bc44eb89707
+
+Naviloya
