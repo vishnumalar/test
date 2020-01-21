@@ -7,6 +7,11 @@ test
 hi
 
 
+<<<<<<< HEAD
+=======
+
+commit test
+>>>>>>> d5444f037b0c10e4edffb01bbe6da3304e13b1f4
 
 commit test --------------
 000000000000
