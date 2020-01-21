@@ -7,37 +7,7 @@ test
 hi
 
 
-----2nd
 
-
-
-==============
-3rd line
-
-<<<<<<< HEAD
-======
-4th line
-=======
-
-malar
->>>>>>> c3b55ce92f088d8203cdbc0319db5bc44eb89707
-
-Naviloya
-
----
-2 files
-
---
-multiple
-file
-
-===fine
-hi
-
-1
-2
-3
-3
 commit test
 
 
