@@ -4,7 +4,8 @@
  
 a=10
 b=20
+c=5
  
-sum=$(( $a + $b ))
+sum=$(( $a + $b +$c ))
  
 echo $sum
