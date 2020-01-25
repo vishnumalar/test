@@ -2,8 +2,7 @@ My very first git pgm
 good
 hellp hello
 <<<<<<< HEAD
-
-hi
+hellooo
 test
 =======
 hi
@@ -27,10 +26,16 @@ git 2020
 git 1
 git 2
 git 3
+=======
+<<<<<<< HEAD
+git 1
+git 2
+git 3
 git 4
 
 =======
 
+>>>>>>> 32b3e08e22dd29575c2bc51de2079f2da241eeeb
 
 git 1
 git 2
